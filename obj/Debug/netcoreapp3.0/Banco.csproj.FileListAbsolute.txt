@@ -1,0 +1,11 @@
+c:\TreinamentoCSharp\Banco\bin\Debug\netcoreapp3.0\Banco.exe
+C:\TreinamentoCSharp\Banco\bin\Debug\netcoreapp3.0\Banco.deps.json
+C:\TreinamentoCSharp\Banco\bin\Debug\netcoreapp3.0\Banco.runtimeconfig.json
+C:\TreinamentoCSharp\Banco\bin\Debug\netcoreapp3.0\Banco.runtimeconfig.dev.json
+c:\TreinamentoCSharp\Banco\bin\Debug\netcoreapp3.0\Banco.dll
+c:\TreinamentoCSharp\Banco\bin\Debug\netcoreapp3.0\Banco.pdb
+c:\TreinamentoCSharp\Banco\obj\Debug\netcoreapp3.0\Banco.csprojAssemblyReference.cache
+c:\TreinamentoCSharp\Banco\obj\Debug\netcoreapp3.0\Banco.AssemblyInfoInputs.cache
+c:\TreinamentoCSharp\Banco\obj\Debug\netcoreapp3.0\Banco.AssemblyInfo.cs
+c:\TreinamentoCSharp\Banco\obj\Debug\netcoreapp3.0\Banco.dll
+c:\TreinamentoCSharp\Banco\obj\Debug\netcoreapp3.0\Banco.pdb
